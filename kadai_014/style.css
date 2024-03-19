@@ -1,0 +1,36 @@
+body {
+  font-family: "Alial", "Meiryo", san-selif;
+  text-align: center;
+}
+
+.google-fonts {
+  /* ここにGoogle Fontsを指定します */
+  font-family: "Josefin Sans", sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115,115,114)
+}
+
+h1 span.m {
+  color: skyblue;
+}
+
+h1 span.p {
+  color: rgb(255,192,203)
+}
+
+.text-pink {
+  color: rgb(255,192,203)
+}
+
+.text-skyblue {
+  color: skyblue;
+}
+
+#basic {
+  font-weight: bold;
+}
